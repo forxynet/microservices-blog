@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: query
-          image: dynamicq/query
+          image: rallycoding/query-84
 ---
 apiVersion: v1
 kind: Service
